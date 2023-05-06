@@ -4,5 +4,5 @@ Projeto realizado juntamente com o curso de Web da Udemy, porém com algumas adi
 
 Linguagens utilizadas: HTML / CSS
 
-Deploy realizado na Vercel:
+Deploy realizado no Vercel:
 https://aprenser.vercel.app/
